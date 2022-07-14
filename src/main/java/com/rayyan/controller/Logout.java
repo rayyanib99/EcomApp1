@@ -17,7 +17,7 @@ public class Logout extends HttpServlet
     
 	
 	/*
-	 * 
+	 * GET
 	 */
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException 
 	{
@@ -38,7 +38,7 @@ public class Logout extends HttpServlet
 
 	
 	/*
-	 * 
+	 * POST
 	 */
 	protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException 
 	{

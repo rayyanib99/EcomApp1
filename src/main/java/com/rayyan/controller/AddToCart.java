@@ -19,7 +19,7 @@ public class AddToCart extends HttpServlet
 
 	
 	/*
-	 * 
+	 * GET
 	 */
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException 
 	{

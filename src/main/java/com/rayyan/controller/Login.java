@@ -21,7 +21,7 @@ public class Login extends HttpServlet
 	
 	
 	/*
-	 * 
+	 * GET
 	 */
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws IOException, ServletException
 	{
@@ -30,7 +30,7 @@ public class Login extends HttpServlet
 	
 	
 	/*
-	 * 
+	 * POST
 	 */
 	protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException 
 	{
